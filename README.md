@@ -1,2 +1,2 @@
 # website
-ShreeTech Website 
+ShreeCech Website 
